@@ -12,6 +12,7 @@ Architecture
 - Hashicorp Vault/Consul
 
 - kubernetes
+- docker
 - openshift
 - azure kubernetes service
 - azure functions
