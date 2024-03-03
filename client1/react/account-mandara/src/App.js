@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Want to know more?
+          Search up Genesis Ancheta?
         </a>
       </header>
     </div>
